@@ -1,0 +1,171 @@
+
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill Constellation">
+  
+<defs>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0b1020">
+      <animate attributeName="stop-color" values="#0b1020;#0f1a2e;#0b1020" dur="18s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#101a35">
+      <animate attributeName="stop-color" values="#101a35;#0c1430;#101a35" dur="18s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#bgGrad)" rx="16"/>
+  
+<g>
+  <text x="40" y="42" font-size="22" font-weight="700" fill="#e2e8f0">exclipsee</text>
+  <text x="40" y="64" font-size="13" fill="#94a3b8">Skill Constellation</text>
+</g>
+
+  <g id="constellation" >
+
+    <line x1="190" y1="120" x2="300" y2="70"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="300" y1="70" x2="360" y2="150"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="360" y1="150" x2="480" y2="110"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="480" y1="110" x2="680" y2="150"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="360" y1="150" x2="440" y2="240"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="440" y1="240" x2="540" y2="190"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="540" y1="190" x2="680" y2="150"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="360" y1="150" x2="260" y2="200"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="190" y1="120" x2="140" y2="200"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="260" y1="200" x2="140" y2="200"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <line x1="260" y1="200" x2="540" y2="190"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    
+
+    <g>
+      <circle cx="190" cy="120" r="6.5" fill="#34d399" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="200" y="125" font-size="13" fill="#cbd5e1">Python</text>
+    </g>
+    
+
+    <g>
+      <circle cx="300" cy="70" r="6.5" fill="#a78bfa" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="310" y="75" font-size="13" fill="#cbd5e1">Pandas</text>
+    </g>
+    
+
+    <g>
+      <circle cx="360" cy="150" r="6.5" fill="#60a5fa" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="370" y="155" font-size="13" fill="#cbd5e1">NumPy</text>
+    </g>
+    
+
+    <g>
+      <circle cx="260" cy="200" r="6.5" fill="#f59e0b" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="270" y="205" font-size="13" fill="#cbd5e1">Jupyter</text>
+    </g>
+    
+
+    <g>
+      <circle cx="140" cy="200" r="6.5" fill="#22c55e" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="150" y="205" font-size="13" fill="#cbd5e1">Excel</text>
+    </g>
+    
+
+    <g>
+      <circle cx="480" cy="110" r="6.5" fill="#38bdf8" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="490" y="115" font-size="13" fill="#cbd5e1">C</text>
+    </g>
+    
+
+    <g>
+      <circle cx="540" cy="190" r="6.5" fill="#fb7185" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="550" y="195" font-size="13" fill="#cbd5e1">Git</text>
+    </g>
+    
+
+    <g>
+      <circle cx="680" cy="150" r="6.5" fill="#7dd3fc" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="690" y="155" font-size="13" fill="#cbd5e1">VS Code</text>
+    </g>
+    
+
+    <g>
+      <circle cx="440" cy="240" r="6.5" fill="#f97316" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="450" y="245" font-size="13" fill="#cbd5e1">scikit-learn</text>
+    </g>
+    
+  <animateTransform attributeName="transform" type="translate" values="0 0; 3 1; -2 -1; 0 0" dur="24s" repeatCount="indefinite"/>
+</g>
+
+</svg>

@@ -55,7 +55,7 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
 </div>
 
 <div align="center">
-  <img width="880" src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/skill-constellation.svg" alt="Animated Skill Constellation: Python, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
+  <img width="880" src="https://raw.githubusercontent.com/exclipsee/exclipsee/main/assets/skill-constellation.svg" alt="Animated Skill Constellation: Python, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
 </div>
 
 ## 🌟 Featured projects
