@@ -24,10 +24,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Generate animated header emojis
-        run: |
-          python scripts/generate_header_emoji_svgs.py
-
       - name: Generate Tech Orbit SVG
         run: |
           python scripts/generate_tech_orbit_svg.py
@@ -40,10 +36,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Show generated files
-        run: |
-          echo "Listing dist contents:" && ls -la dist
 
       - name: Publish to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v4
