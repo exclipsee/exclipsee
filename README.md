@@ -94,9 +94,9 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exclipsee/exclipsee/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exclipsee/exclipsee/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/exclipsee/exclipsee/blob/output/github-contribution-grid-snake-dark.svg?raw=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/exclipsee/exclipsee/blob/output/github-contribution-grid-snake.svg?raw=1">
+    <img alt="github contribution grid snake animation" src="https://github.com/exclipsee/exclipsee/blob/output/github-contribution-grid-snake.svg?raw=1">
   </picture>
 </div>
 
