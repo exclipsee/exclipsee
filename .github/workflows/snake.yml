@@ -16,6 +16,18 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate Tech Orbit SVG
+        run: |
+          python scripts/generate_tech_orbit_svg.py
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
