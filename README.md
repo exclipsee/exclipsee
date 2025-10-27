@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E96F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Volodymyr+Minutin+%F0%9F%91%8B;Computer+Science+student+%28remote%29;Python+%E2%80%A2+Excel+%E2%80%A2+C+%E2%80%A2+Data+Science;Open+to+Student%2FIntern+roles+%28Remote+%2F+Bayern%29;Learning+Cybersecurity" alt="typing intro" />
 </div>
 
-## 🚀 About me
+## <img src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/emoji-about.svg" width="24" height="24" alt="Rocket" /> About me
 
 - 🎓 Studying for a Bachelor's in Computer Science (remote); planning a remote Master's in Information Technology.
 - 🧠 4 years working with Python and Excel.
@@ -13,7 +13,7 @@
 - 🌱 I love learning and keep up with modern tech trends.
 - 🌍 Languages: English (C1), Polish (C2), German (B1), Ukrainian (Native), Russian (Native).
 
-## 🎒 Currently learning
+## <img src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/emoji-learning.svg" width="24" height="24" alt="Backpack" /> Currently learning
 
 I'm actively working through a few high‑quality tracks and courses. Certificates will be added soon to a dedicated repo.
 
@@ -29,7 +29,7 @@ I'm actively working through a few high‑quality tracks and courses. Certificat
 
 Tip: I’ll push new certificates to a repo named “certificates” as I complete them.
 
-## 🛠️ Tech stack
+## <img src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/emoji-tech.svg" width="24" height="24" alt="Tools" /> Tech stack
 
 - Languages: Python, C, Markdown
 - Data & Analysis: Excel, Power Query, Pandas, NumPy, Matplotlib, Seaborn, scikit‑learn, Jupyter
@@ -58,7 +58,7 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
   <img width="820" src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/tech-orbit.svg" alt="Animated Tech Orbit: Python, C, Excel, Pandas, NumPy, Jupyter, Git, VS Code" />
 </div>
 
-## 🌟 Featured projects
+## <img src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/emoji-projects.svg" width="24" height="24" alt="Star" /> Featured projects
 
 <div align="center">
 
@@ -78,14 +78,14 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
 - Modern C Portfolio — C language exercises and practical systems‑style snippets.
 - Python Mastery Portfolio — Python practice, utilities, and small data projects.
 
-## 🎯 What I’m focusing on now
+## <img src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/emoji-focus.svg" width="24" height="24" alt="Target" /> What I’m focusing on now
 
 - Solidifying CS fundamentals (C, algorithms, data structures)
 - Practical data analysis with Python + Excel
 - Building small, end‑to‑end portfolio projects
 - Foundational cybersecurity topics (networking, system hardening, threat basics)
 
-## 📈 GitHub stats
+## <img src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/emoji-stats.svg" width="24" height="24" alt="Chart" /> GitHub stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=exclipsee&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
@@ -104,7 +104,7 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
   </picture>
 </div>
 
-## 🤝 Let’s connect
+## <img src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/emoji-connect.svg" width="24" height="24" alt="Handshake" /> Let’s connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/volodymyr-minutin-380310364" target="_blank">

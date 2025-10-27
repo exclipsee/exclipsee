@@ -24,6 +24,10 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Generate animated header emojis
+        run: |
+          python scripts/generate_header_emoji_svgs.py
+
       - name: Generate Tech Orbit SVG
         run: |
           python scripts/generate_tech_orbit_svg.py
