@@ -2,20 +2,20 @@ import math
 from pathlib import Path
 
 # Config
-WIDTH, HEIGHT = 900, 280
+WIDTH, HEIGHT = 960, 320
 CX, CY = WIDTH // 2, HEIGHT // 2
-RADIUS = 90
-DUR = "22s"
-LABEL = "Tech Orbit"
+RADIUS = 100
+DUR = "24s"
+LABEL = "Tech Orbit (skills snapshot)"
 TECHS = [
-    ("Python", "#3776AB"),
-    ("C", "#00599C"),
-    ("Excel", "#217346"),
-    ("Pandas", "#150458"),
-    ("NumPy", "#013243"),
-    ("Jupyter", "#F37626"),
-    ("Git", "#F05032"),
-    ("VS Code", "#007ACC"),
+  ("Python", "#3776AB", "Py"),
+  ("C", "#00599C", "C"),
+  ("Excel", "#217346", "XL"),
+  ("Pandas", "#150458", "Pd"),
+  ("NumPy", "#013243", "NP"),
+  ("Jupyter", "#F37626", "Ju"),
+  ("Git", "#F05032", "Git"),
+  ("VS Code", "#007ACC", "VS"),
 ]
 
 # Output path
@@ -29,20 +29,25 @@ def polar_to_cart(angle_deg: float, r: float):
     rad = math.radians(angle_deg)
     return CX + r * math.cos(rad), CY + r * math.sin(rad)
 
-# Build dots around a circle
+# Build labeled nodes around a circle
 n = len(TECHS)
 angle_step = 360.0 / n
 
-# Animated group for orbiting dots
-dots = [
-    f"""
+# Animated group for orbiting nodes (with labels)
+node_items = []
+for i, (name, color, abbr) in enumerate(TECHS):
+    angle = i * angle_step
+    x, y = polar_to_cart(angle, RADIUS)
+    lx, ly = polar_to_cart(angle, RADIUS + 18)
+    node_items.append(
+        f"""
     <g>
       <title>{name}</title>
-      <circle cx="{polar_to_cart(i*angle_step, RADIUS)[0]:.2f}" cy="{polar_to_cart(i*angle_step, RADIUS)[1]:.2f}" r="7" fill="{color}" />
+      <circle cx="{x:.2f}" cy="{y:.2f}" r="8" fill="{color}" filter="url(#shadow)" />
+      <text x="{lx:.2f}" y="{ly+4:.2f}" font-size="13" fill="#cbd5e1">{abbr}</text>
     </g>
     """
-    for i, (name, color) in enumerate(TECHS)
-]
+    )
 
 # Legend at bottom
 legend_items = []
@@ -59,6 +64,9 @@ for i, (name, color) in enumerate(TECHS):
 # Background gradient with slow shimmer
 background = f"""
 <defs>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.45"/>
+  </filter>
   <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#0f172a">
       <animate attributeName="stop-color" values="#0f172a;#0a0f1f;#0f172a" dur="16s" repeatCount="indefinite"/>
@@ -80,7 +88,7 @@ center_label = f"""
 # Orbit group with animation
 orbit_group = (
     "<g id=\"orbit\" >"
-    + "".join(dots)
+    + "".join(node_items)
     + f"""
   <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 {CX} {CY}" to="360 {CX} {CY}" dur="{DUR}" repeatCount="indefinite"/>
 </g>

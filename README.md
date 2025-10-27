@@ -55,10 +55,7 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
 </div>
 
 <div align="center">
-  <img src="https://github.com/exclipsee/exclipsee/blob/output/tech-orbit.svg?raw=1" alt="Tech Orbit animation" />
-  <br/>
-  <sub>Custom animated tech orbit — unique to this profile.</sub>
-  <br/>
+  <img width="820" src="https://raw.githubusercontent.com/exclipsee/exclipsee/output/tech-orbit.svg" alt="Animated Tech Orbit: Python, C, Excel, Pandas, NumPy, Jupyter, Git, VS Code" />
 </div>
 
 ## 🌟 Featured projects
