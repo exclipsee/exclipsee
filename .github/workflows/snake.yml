@@ -28,6 +28,10 @@ jobs:
         run: |
           python scripts/generate_tech_orbit_svg.py
 
+      - name: Generate Skill Constellation SVG
+        run: |
+          python scripts/generate_skill_constellation_svg.py
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
