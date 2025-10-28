@@ -1,4 +1,3 @@
-
 <svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill Constellation">
   
 <defs>
@@ -94,6 +93,20 @@
     </line>
     
 
+    <line x1="440" y1="240" x2="560" y2="280"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+
+    <line x1="560" y1="280" x2="700" y2="260"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+
+    <line x1="700" y1="260" x2="680" y2="150"
+          stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0; -20" dur="2.8s" repeatCount="indefinite"/>
+    </line>
     <g>
       <circle cx="190" cy="120" r="6.5" fill="#34d399" filter="url(#glow)">
         <animate attributeName="r" values="6.5; 8; 6.5" dur="2s" repeatCount="indefinite"/>
@@ -165,7 +178,21 @@
       <text x="450" y="245" font-size="13" fill="#cbd5e1">scikit-learn</text>
     </g>
     
-  <animateTransform attributeName="transform" type="translate" values="0 0; 3 1; -2 -1; 0 0" dur="24s" repeatCount="indefinite"/>
+    
+    <g>
+      <circle cx="560" cy="280" r="6.5" fill="#c084fc" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="570" y="285" font-size="13" fill="#cbd5e1">Matplotlib</text>
+    </g>
+
+    <g>
+      <circle cx="700" cy="260" r="6.5" fill="#38bdf8" filter="url(#glow)">
+        <animate attributeName="r" values="6.5; 8; 6.5" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="710" y="265" font-size="13" fill="#cbd5e1">Seaborn</text>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 3 1; -2 -1; 0 0" dur="24s" repeatCount="indefinite"/>
 </g>
 
 </svg>
