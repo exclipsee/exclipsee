@@ -6,15 +6,14 @@ on:
     - cron: "0 0 * * *"
   # Allow manual runs
   workflow_dispatch:
-  # Also run on pushes to main so it generates immediately
-  push:
-    branches: ["main"]
+  # We remove the 'push' trigger to prevent the workflow from
+  # re-triggering itself in an infinite loop.
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # This permission is vital to allow the action to commit to your repo
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,6 +36,7 @@ jobs:
         with:
           github_user_name: exclipsee
           # Generate both light and dark variants
+          # Ensure the 'dist' directory exists before running
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -45,10 +45,17 @@ jobs:
         run: |
           echo "Listing dist contents:" && ls -la dist
 
-      - name: Publish to GitHub Pages (output branch)
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # This new step commits the generated files back to your main branch
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/ # Add all contents of the dist directory
+          
+          # Commit only if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update contribution snake and SVGs"
+            git push
+          else
+            echo "No changes to commit."
+          fi
