@@ -1,0 +1,87 @@
+
+<svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Orbit">
+  
+<defs>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.45"/>
+  </filter>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0f172a">
+      <animate attributeName="stop-color" values="#0f172a;#0a0f1f;#0f172a" dur="16s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#1e293b">
+      <animate attributeName="stop-color" values="#1e293b;#0e2133;#1e293b" dur="16s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="url(#bgGrad)" rx="16"/>
+
+  <circle cx="480" cy="160" r="100" fill="none" stroke="#334155" stroke-width="1.5" stroke-dasharray="3 6"/>
+  <g id="orbit" >
+    <g>
+      <title>Python</title>
+      <circle cx="580.00" cy="160.00" r="8" fill="#3776AB" filter="url(#shadow)" />
+      <text x="598.00" y="164.00" font-size="13" fill="#cbd5e1">Py</text>
+    </g>
+    
+    <g>
+      <title>C</title>
+      <circle cx="550.71" cy="230.71" r="8" fill="#00599C" filter="url(#shadow)" />
+      <text x="563.44" y="247.44" font-size="13" fill="#cbd5e1">C</text>
+    </g>
+    
+    <g>
+      <title>Excel</title>
+      <circle cx="480.00" cy="260.00" r="8" fill="#217346" filter="url(#shadow)" />
+      <text x="480.00" y="282.00" font-size="13" fill="#cbd5e1">XL</text>
+    </g>
+    
+    <g>
+      <title>Pandas</title>
+      <circle cx="409.29" cy="230.71" r="8" fill="#150458" filter="url(#shadow)" />
+      <text x="396.56" y="247.44" font-size="13" fill="#cbd5e1">Pd</text>
+    </g>
+    
+    <g>
+      <title>NumPy</title>
+      <circle cx="380.00" cy="160.00" r="8" fill="#013243" filter="url(#shadow)" />
+      <text x="362.00" y="164.00" font-size="13" fill="#cbd5e1">NP</text>
+    </g>
+    
+    <g>
+      <title>Jupyter</title>
+      <circle cx="409.29" cy="89.29" r="8" fill="#F37626" filter="url(#shadow)" />
+      <text x="396.56" y="80.56" font-size="13" fill="#cbd5e1">Ju</text>
+    </g>
+    
+    <g>
+      <title>Git</title>
+      <circle cx="480.00" cy="60.00" r="8" fill="#F05032" filter="url(#shadow)" />
+      <text x="480.00" y="46.00" font-size="13" fill="#cbd5e1">Git</text>
+    </g>
+    
+    <g>
+      <title>VS Code</title>
+      <circle cx="550.71" cy="89.29" r="8" fill="#007ACC" filter="url(#shadow)" />
+      <text x="563.44" y="80.56" font-size="13" fill="#cbd5e1">VS</text>
+    </g>
+    
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 480 160" to="360 480 160" dur="24s" repeatCount="indefinite"/>
+</g>
+
+  
+<text x="480" y="152" text-anchor="middle" font-size="28" font-weight="700" fill="#e2e8f0">exclipsee</text>
+<text x="480" y="180" text-anchor="middle" font-size="14" fill="#94a3b8">Tech Orbit (skills snapshot)</text>
+
+  <g>
+    <g><circle cx="60" cy="280" r="5" fill="#3776AB" />
+<text x="72" y="284" font-size="14" fill="#9aa0a6">Python</text></g><g><circle cx="155" cy="280" r="5" fill="#00599C" />
+<text x="167" y="284" font-size="14" fill="#9aa0a6">C</text></g><g><circle cx="250" cy="280" r="5" fill="#217346" />
+<text x="262" y="284" font-size="14" fill="#9aa0a6">Excel</text></g><g><circle cx="345" cy="280" r="5" fill="#150458" />
+<text x="357" y="284" font-size="14" fill="#9aa0a6">Pandas</text></g><g><circle cx="440" cy="280" r="5" fill="#013243" />
+<text x="452" y="284" font-size="14" fill="#9aa0a6">NumPy</text></g><g><circle cx="535" cy="280" r="5" fill="#F37626" />
+<text x="547" y="284" font-size="14" fill="#9aa0a6">Jupyter</text></g><g><circle cx="630" cy="280" r="5" fill="#F05032" />
+<text x="642" y="284" font-size="14" fill="#9aa0a6">Git</text></g><g><circle cx="725" cy="280" r="5" fill="#007ACC" />
+<text x="737" y="284" font-size="14" fill="#9aa0a6">VS Code</text></g>
+  </g>
+</svg>
