@@ -54,7 +54,7 @@ legend_items = []
 legend_x = 60
 legend_y = HEIGHT - 40
 legend_gap = 95
-for i, (name, color) in enumerate(TECHS):
+for i, (name, color, abbr) in enumerate(TECHS):
     x = legend_x + i * legend_gap
     legend_items.append(
         f'<g><circle cx="{x}" cy="{legend_y}" r="5" fill="{color}" />\n'
