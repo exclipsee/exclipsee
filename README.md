@@ -96,15 +96,7 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exclipsee&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/exclipsee/exclipsee/blob/output/github-contribution-grid-snake-dark.svg?raw=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/exclipsee/exclipsee/blob/output/github-contribution-grid-snake.svg?raw=1">
-    <img src="dist/github-contribution-grid-snake.svg" alt="contribution snake">
-  </picture>
-</div>
-
-## 🤝 Let’s connect
+## 🤝 Let's connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/volodymyr-minutin-380310364" target="_blank">
