@@ -13,13 +13,13 @@
         <br><sub><b>Quality-Focused Companies</b></sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/�_High_Impact-Python_|_Data_|_Systems-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_Data_|_Systems-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
         <br><sub><b>Immediate Contributor</b></sub>
       </td>
     </tr>
   </table>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=FF6B35&center=true&vCenter=true&width=950&height=65&lines=�+4+years+building+solutions+—+not+just+learning;⚡+Your+competitors+are+already+reaching+out;🎯+I+choose+companies+that+recognize+talent;💎+Junior+position%2C+senior-minded+problem+solver;�+Ready+to+deliver+value+from+day+one" alt="confident professional messaging" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=FF6B35&center=true&vCenter=true&width=950&height=65&lines=🚀+4+years+building+solutions+—+not+just+learning;⚡+Your+competitors+are+already+reaching+out;🎯+I+choose+companies+that+recognize+talent;💎+Junior+position%2C+senior-minded+problem+solver;🔥+Ready+to+deliver+value+from+day+one" alt="confident professional messaging" />
 </div>
 
 ## 🚀 Professional Profile
@@ -31,7 +31,7 @@
 - 🧠 **Competitive Edge** — Multilingual professional: English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native).
 - ⚡ **Immediate Impact** — No ramp-up time needed, ready to contribute from day one.
 
-## � Strategic Skill Expansion
+## 🎯 Strategic Skill Expansion
 
 Continuously advancing my technical capabilities through industry-recognized certifications and hands-on implementation.
 
@@ -73,7 +73,7 @@ Continuously advancing my technical capabilities through industry-recognized cer
 </div>
 
 <div align="center">
-  <img width="880" src="dist/skill-constellation.svg" alt="Animated Skill Constellation: Python, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
+  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Technical Skill Portfolio: Python, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
 </div>
 
 ## 🌟 Featured projects
