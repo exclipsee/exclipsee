@@ -96,6 +96,12 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exclipsee&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=exclipsee&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
 ## 🤝 Let's connect
 
 <div align="center">
