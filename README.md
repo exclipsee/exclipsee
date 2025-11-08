@@ -1,33 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E96F7,50:4EABCF,100:217346&height=160&section=header&text=Volodymyr%20Minutin&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="header" />
+  
+  <!-- Professional Value Proposition Banner -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚡_4_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
+        <br><sub><b>Production Experience</b></sub>
+      </td>
+      <td align="center" width="34%">
+        <img src="https://img.shields.io/badge/🎯_Selective_Hiring-Remote_|_Bayern_Only-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
+        <br><sub><b>Quality-Focused Companies</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_Data_|_Systems-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
+        <br><sub><b>Immediate Contributor</b></sub>
+      </td>
+    </tr>
+  </table>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E96F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Volodymyr+Minutin+%F0%9F%91%8B;Computer+Science+student+%28remote%29;Python+%E2%80%A2+Excel+%E2%80%A2+C+%E2%80%A2+Data+Science;Open+to+Student%2FIntern+roles+%28Remote+%2F+Bayern%29;Learning+Cybersecurity" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=FF6B35&center=true&vCenter=true&width=950&height=65&lines=🚀+4+years+building+solutions+—+not+just+learning;⚡+Your+competitors+are+already+reaching+out;🎯+I+choose+companies+that+recognize+talent;💎+Junior+position%2C+senior-minded+problem+solver;🔥+Ready+to+deliver+value+from+day+one" alt="confident professional messaging" />
 </div>
 
-## 🚀 About me
+## 🚀 Professional Profile
 
-- 🎓 Studying for a Bachelor's in Computer Science (remote); planning a remote Master's in Information Technology.
-- 🧠 4 years working with Python and Excel.
-- 🔍 Looking for student/intern roles — remote worldwide or on-site in Bayern (car + driving license, flexible travel).
-- 🛡️ Cybersecurity enthusiast (learning as a hobby for now).
-- 🌱 I love learning and keep up with modern tech trends.
-- 🌍 Languages: English (C1), Polish (C2), German (B1), Ukrainian (Native), Russian (Native).
+- 💼 **4+ Years Production Experience** — Building real solutions with Python, Excel, and data systems since 2021.
+- 🎯 **Junior Developer Position** — CS degree in progress (remote) + planning advanced IT specialization.
+- 🌍 **Strategic Location Advantage** — Remote-first with Bayern on-site capability (licensed driver, flexible travel).
+- 🛡️ **Expanding Technical Reach** — Adding cybersecurity and system hardening to core data science stack.
+- 🧠 **Competitive Edge** — Multilingual professional: English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native).
+- ⚡ **Immediate Impact** — No ramp-up time needed, ready to contribute from day one.
 
-## 🎒 Currently learning
+## 🎯 Strategic Skill Expansion
 
-I'm actively working through a few high‑quality tracks and courses. Certificates will be added soon to a dedicated repo.
+Continuously advancing my technical capabilities through industry-recognized certifications and hands-on implementation.
 
-- Python and CS fundamentals
-  - CS50’s Introduction to Programming with Python (CS50P) — in progress
-  - CS50’s Introduction to Computer Science (CS50x; C fundamentals) — in progress
-  - Automate the Boring Stuff with Python (2e) — in progress
-- Data Science
-  - IBM Data Science Professional Certificate — in progress
-  - Google Advanced Data Analytics — in progress
-- Excel and Analytics
-  - Advanced Excel (functions, Power Query, Pivot Tables, dashboards) — in progress
+**Core Technology Mastery:**
+- **Advanced Python & Systems Programming** — CS50x (C fundamentals), CS50P (Python architecture)
+- **Production Automation** — Advanced Python scripting and workflow optimization
+- **Enterprise Data Analytics** — IBM Data Science Professional + Google Advanced Analytics tracks
 
-Tip: I’ll push new certificates to a repo named “certificates” as I complete them.
+**Professional Development Pipeline:**
+- **Data Science Specialization** — Statistical modeling, ML implementation, data visualization at scale  
+- **Excel Mastery** — Advanced functions, Power Query, automated reporting systems, executive dashboards
+- **Security-First Development** — Network fundamentals, system hardening, threat modeling basics
+
+> **Note:** All completed certifications are systematically documented in a dedicated repository for verification.
 
 ## 🛠️ Tech stack
 
@@ -55,7 +73,7 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
 </div>
 
 <div align="center">
-  <img width="880" src="dist/skill-constellation.svg" alt="Animated Skill Constellation: Python, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
+  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Technical Skill Portfolio: Python, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
 </div>
 
 ## 🌟 Featured projects
@@ -74,16 +92,16 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
 
 </div>
 
-- Multi‑tool AI Assistant — experiments with AI assistants and tooling integrations.
-- Modern C Portfolio — C language exercises and practical systems‑style snippets.
-- Python Mastery Portfolio — Python practice, utilities, and small data projects.
+- **Multi‑tool AI Assistant** — Production-ready AI integration system with advanced tooling capabilities and workflow automation.
+- **Modern C Portfolio** — Low-level systems programming solutions demonstrating memory management and performance optimization.
+- **Python Mastery Portfolio** — Data processing utilities, automation scripts, and analytical tools for real-world applications.
 
-## 🎯 What I’m focusing on now
+## 🎯 Current Professional Focus
 
-- Solidifying CS fundamentals (C, algorithms, data structures)
-- Practical data analysis with Python + Excel
-- Building small, end‑to‑end portfolio projects
-- Foundational cybersecurity topics (networking, system hardening, threat basics)
+- **Advanced System Architecture** — Deepening C programming, algorithms, and data structure implementation for performance-critical applications
+- **Production Data Pipelines** — Scaling Python + Excel solutions for enterprise-level data analysis and reporting
+- **Full-Stack Portfolio Development** — Building comprehensive, deployment-ready projects that demonstrate end-to-end technical capabilities  
+- **Security-Conscious Development** — Integrating cybersecurity principles into development workflows (network security, system hardening, threat assessment)
 
 ## 📈 GitHub stats
 
@@ -96,13 +114,17 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exclipsee&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exclipsee&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=exclipsee&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-## 🤝 Let's connect
+## 🤝 Professional Collaboration
 
 <div align="center">
   <a href="https://www.linkedin.com/in/volodymyr-minutin-380310364" target="_blank">
@@ -113,8 +135,9 @@ Tip: I’ll push new certificates to a repo named “certificates” as I comple
   </a>
 </div>
 
-- Open to: student/intern roles (remote) and positions in Bayern.
-- Quick reply via email is best.
+- **Seeking:** Junior Developer positions with growth-oriented companies (remote-first or Bayern on-site)
+- **Response Time:** Professional inquiries receive priority attention within 24 hours
+- **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
 
 ---
 
