@@ -121,7 +121,7 @@ Continuously advancing my technical capabilities through industry-recognized cer
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=exclipsee&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=3&rank=Experience,Commits,Repositories" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=exclipsee&theme=transparent&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Professional Collaboration
