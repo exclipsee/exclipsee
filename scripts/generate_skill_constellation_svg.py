@@ -5,21 +5,25 @@ BG1, BG2 = "#0b1020", "#101a35"
 LABEL = "Skill Constellation"
 
 nodes = [
-    ("Python", 160, 120, "#34d399"),
-    ("SQL", 270, 80, "#4479a1"),
-    ("Pandas", 360, 110, "#a78bfa"),
-    ("NumPy", 420, 180, "#60a5fa"),
-    ("Docker", 520, 120, "#2496ed"),
-    ("scikit-learn", 380, 240, "#f97316"),
-    ("Jupyter", 260, 200, "#f59e0b"),
-    ("Excel", 140, 220, "#22c55e"),
-    ("AI Tools", 600, 200, "#ff6b6b"),
-    ("Git", 680, 150, "#fb7185"),
+    ("Python", 480, 60, "#34d399"),      # Nose cone (top center)
+    ("SQL", 420, 130, "#4479a1"),        # Left wing
+    ("Pandas", 540, 130, "#a78bfa"),     # Right wing
+    ("Docker", 360, 190, "#2496ed"),     # Lower left
+    ("NumPy", 450, 190, "#60a5fa"),      # Lower center-left
+    ("scikit-learn", 510, 190, "#f97316"),  # Lower center-right
+    ("AI Tools", 600, 190, "#ff6b6b"),   # Lower right
+    ("Jupyter", 480, 250, "#f59e0b"),    # Body center
+    ("Excel", 400, 310, "#22c55e"),      # Left booster
+    ("Git", 560, 310, "#fb7185"),        # Right booster
 ]
 
 edges = [
-    (0, 1), (1, 2), (2, 3), (3, 5), (5, 6), (6, 7), (0, 7),  # Main data flow
-    (2, 4), (4, 9), (3, 8), (8, 9), (1, 6)  # Docker & AI connections
+    # Rocket body structure
+    (0, 1), (0, 2),           # Nose to wings
+    (1, 3), (1, 4),           # Left wing connections
+    (2, 5), (2, 6),           # Right wing connections
+    (3, 7), (4, 7), (5, 7), (6, 7),  # All to center body
+    (7, 8), (7, 9),           # Body to boosters
 ]
 
 out_dir = Path("dist")
