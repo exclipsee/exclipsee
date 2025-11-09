@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⚡_4_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
+        <img src="https://img.shields.io/badge/⚡_3_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
         <br><sub><b>Production Experience</b></sub>
       </td>
       <td align="center" width="34%">
@@ -13,18 +13,19 @@
         <br><sub><b>Quality-Focused Companies</b></sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_Data_|_Systems-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_SQL_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
         <br><sub><b>Immediate Contributor</b></sub>
       </td>
     </tr>
   </table>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=FF6B35&center=true&vCenter=true&width=950&height=65&lines=🚀+4+years+building+solutions+—+not+just+learning;⚡+Your+competitors+are+already+reaching+out;🎯+I+choose+companies+that+recognize+talent;💎+Junior+position%2C+senior-minded+problem+solver;🔥+Ready+to+deliver+value+from+day+one" alt="confident professional messaging" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=FF6B35&center=true&vCenter=true&width=950&height=65&lines=🚀+3+years+building+solutions+—+not+just+learning;⚡+AI+workflow+expert+since+2022;🎯+I+choose+companies+that+recognize+talent;💎+Junior+position%2C+senior-minded+problem+solver;🔥+Ready+to+deliver+value+from+day+one" alt="confident professional messaging" />
 </div>
 
 ## 🚀 Professional Profile
 
-- 💼 **4+ Years Production Experience** — Building real solutions with Python, Excel, and data systems since 2021.
+- 💼 **3+ Years Production Experience** — Building real solutions with Python, SQL, Excel, and data systems since 2022.
+- 🤖 **AI Integration Specialist** — 3 years hands-on experience with diverse AI tools and workflows, ready for any AI-related role.
 - 🎯 **Junior Developer Position** — CS degree in progress (remote) + planning advanced IT specialization.
 - 🌍 **Strategic Location Advantage** — Remote-first with Bayern on-site capability (licensed driver, flexible travel).
 - 🛡️ **Expanding Technical Reach** — Adding cybersecurity and system hardening to core data science stack.
@@ -37,20 +38,23 @@ Continuously advancing my technical capabilities through industry-recognized cer
 
 **Core Technology Mastery:**
 - **Advanced Python & Systems Programming** — CS50x (C fundamentals), CS50P (Python architecture)
+- **AI Workflow Integration** — 3 years working with diverse AI platforms, prompt engineering, and AI-assisted development (2022–present)
+- **Database & SQL Expertise** — Query optimization, data modeling, ETL processes alongside Python and Excel
 - **Production Automation** — Advanced Python scripting and workflow optimization
 - **Enterprise Data Analytics** — IBM Data Science Professional + Google Advanced Analytics tracks
 
 **Professional Development Pipeline:**
 - **Data Science Specialization** — Statistical modeling, ML implementation, data visualization at scale  
-- **Excel Mastery** — Advanced functions, Power Query, automated reporting systems, executive dashboards
+- **Excel & SQL Mastery** — Advanced functions, Power Query, complex queries, automated reporting systems
 - **Security-First Development** — Network fundamentals, system hardening, threat modeling basics
 
 > **Note:** All completed certifications are systematically documented in a dedicated repository for verification.
 
 ## 🛠️ Tech stack
 
-- Languages: Python, C, Markdown
-- Data & Analysis: Excel, Power Query, Pandas, NumPy, Matplotlib, Seaborn, scikit‑learn, Jupyter
+- Languages: Python, SQL, C, Markdown
+- Data & Analysis: SQL (queries, joins, subqueries), Excel, Power Query, Pandas, NumPy, Matplotlib, Seaborn, scikit‑learn, Jupyter
+- AI & Automation: AI workflow integration, prompt engineering, AI-assisted development (3 years experience)
 - Tools: Git, GitHub, VS Code, Windows, WSL/Linux basics
 
 <div align="center">
@@ -58,8 +62,10 @@ Continuously advancing my technical capabilities through industry-recognized cer
 <!-- Language/tool badges -->
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/AI_Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -73,7 +79,7 @@ Continuously advancing my technical capabilities through industry-recognized cer
 </div>
 
 <div align="center">
-  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Technical Skill Portfolio: Python, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
+  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Technical Skill Portfolio: Python, SQL, AI Tools, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
 </div>
 
 ## 🌟 Featured projects
@@ -92,14 +98,15 @@ Continuously advancing my technical capabilities through industry-recognized cer
 
 </div>
 
-- **Multi‑tool AI Assistant** — Production-ready AI integration system with advanced tooling capabilities and workflow automation.
+- **Multi‑tool AI Assistant** — Production-ready AI integration system with advanced tooling capabilities and workflow automation (3 years AI experience).
 - **Modern C Portfolio** — Low-level systems programming solutions demonstrating memory management and performance optimization.
-- **Python Mastery Portfolio** — Data processing utilities, automation scripts, and analytical tools for real-world applications.
+- **Python Mastery Portfolio** — Data processing utilities, SQL integration, automation scripts, and analytical tools for real-world applications.
 
 ## 🎯 Current Professional Focus
 
+- **AI-Driven Development** — Leveraging 3 years of AI tool experience to optimize workflows, accelerate development, and solve complex problems
 - **Advanced System Architecture** — Deepening C programming, algorithms, and data structure implementation for performance-critical applications
-- **Production Data Pipelines** — Scaling Python + Excel solutions for enterprise-level data analysis and reporting
+- **Production Data Pipelines** — Scaling Python + SQL + Excel solutions for enterprise-level data analysis and reporting
 - **Full-Stack Portfolio Development** — Building comprehensive, deployment-ready projects that demonstrate end-to-end technical capabilities  
 - **Security-Conscious Development** — Integrating cybersecurity principles into development workflows (network security, system hardening, threat assessment)
 
