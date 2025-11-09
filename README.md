@@ -32,16 +32,19 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 
 ## 🎯 Technical Foundation
 
-- **Advanced Python & Systems Programming** — CS50x, CS50P, production-level scripting and automation
-- **Database & Analytics** — SQL query optimization, Excel Power Query, Pandas/NumPy data processing
+- **Advanced Python & Data Science** — CS50x, CS50P, production-level scripting, statistical analysis, machine learning with scikit-learn
+- **Database & Analytics** — SQL (queries, joins, subqueries, optimization), Excel Power Query, Pandas/NumPy data processing, data visualization (Matplotlib, Seaborn)
 - **AI Integration Expertise** — 3 years working with AI platforms, prompt engineering, workflow automation (2022–present)
+- **DevOps & Deployment** — Docker containerization, Git version control, CI/CD workflows, reproducible environments
 
 ## 🛠️ Tech stack
 
-- Languages: Python, SQL, C, Markdown
-- Data & Analysis: SQL (queries, joins, subqueries), Excel, Power Query, Pandas, NumPy, Matplotlib, Seaborn, scikit‑learn, Jupyter
-- AI & Automation: AI workflow integration, prompt engineering, AI-assisted development (3 years experience)
-- Tools: Git, GitHub, VS Code, Windows, WSL/Linux basics
+- **Languages:** Python, SQL, C, Markdown
+- **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebooks, statistical analysis, data visualization
+- **Databases:** SQL (PostgreSQL, MySQL), query optimization, data modeling, ETL processes
+- **Business Intelligence:** Excel, Power Query, pivot tables, dashboards, automated reporting
+- **AI & Automation:** AI workflow integration, prompt engineering, AI-assisted development (3 years)
+- **DevOps & Tools:** Docker, Git/GitHub, VS Code, Linux/WSL, virtual environments, CI/CD basics
 
 <div align="center">
 
@@ -49,7 +52,7 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 <img src="https://img.shields.io/badge/AI_Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -59,13 +62,13 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 <img src="https://img.shields.io/badge/Seaborn-4EABCF?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </div>
 
 <div align="center">
-  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Technical Skill Portfolio: Python, SQL, AI Tools, Pandas, NumPy, Jupyter, Excel, C, Git, VS Code, scikit-learn" />
+  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Data Scientist & Analyst: Python, SQL, Docker, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter, Excel, AI Integration" />
 </div>
 
 ## 🌟 Featured projects
@@ -84,13 +87,13 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 
 </div>
 
-- **Multi‑tool AI Assistant** — Production-ready AI integration system with advanced tooling capabilities and workflow automation (3 years AI experience).
+- **Multi‑tool AI Assistant** — Production-ready AI integration system with advanced tooling, workflow automation, and intelligent decision-making (3 years AI experience).
+- **Python Mastery Portfolio** — Data science utilities, SQL integration, statistical analysis, visualization dashboards, and ETL automation for real-world applications.
 - **Modern C Portfolio** — Low-level systems programming solutions demonstrating memory management and performance optimization.
-- **Python Mastery Portfolio** — Data processing utilities, SQL integration, automation scripts, and analytical tools for real-world applications.
 
 ## 🎯 Current Focus
 
-Deepening expertise in system architecture (C programming, algorithms), scaling data pipelines (Python + SQL + Excel), and integrating security principles into development workflows.
+Building production-ready data science solutions: advanced statistical modeling, machine learning pipelines, Docker containerization for reproducible analytics, and scalable ETL processes with Python + SQL.
 
 ## 📈 GitHub stats
 
