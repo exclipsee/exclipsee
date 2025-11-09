@@ -18,37 +18,23 @@
       </td>
     </tr>
   </table>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=FF6B35&center=true&vCenter=true&width=950&height=65&lines=🚀+3+years+building+solutions+—+not+just+learning;⚡+AI+workflow+expert+since+2022;🎯+I+choose+companies+that+recognize+talent;💎+Junior+position%2C+senior-minded+problem+solver;🔥+Ready+to+deliver+value+from+day+one" alt="confident professional messaging" />
 </div>
 
 ## 🚀 Professional Profile
 
-- 💼 **3+ Years Production Experience** — Building real solutions with Python, SQL, Excel, and data systems since 2022.
-- 🤖 **AI Integration Specialist** — 3 years hands-on experience with diverse AI tools and workflows, ready for any AI-related role.
-- 🎯 **Junior Developer Position** — CS degree in progress (remote) + planning advanced IT specialization.
-- 🌍 **Strategic Location Advantage** — Remote-first with Bayern on-site capability (licensed driver, flexible travel).
-- 🛡️ **Expanding Technical Reach** — Adding cybersecurity and system hardening to core data science stack.
-- 🧠 **Competitive Edge** — Multilingual professional: English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native).
-- ⚡ **Immediate Impact** — No ramp-up time needed, ready to contribute from day one.
+Junior Developer with 3 years production experience building Python, SQL, and AI-integrated solutions. Currently pursuing CS degree (remote) with plans for advanced IT specialization. Remote-first with Bayern on-site capability.
 
-## 🎯 Strategic Skill Expansion
+**Key Differentiators:**
+- 🤖 **AI Integration Specialist** — 3 years working with diverse AI platforms, prompt engineering, and AI-assisted development workflows
+- 🌍 **Multilingual Asset** — English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native) — ideal for international teams
+- 🛡️ **Security-Conscious** — Actively expanding into cybersecurity and system hardening alongside data science expertise
+- 🚗 **Flexible & Mobile** — Licensed driver, willing to travel for on-site collaboration in Bayern region
 
-Continuously advancing my technical capabilities through industry-recognized certifications and hands-on implementation.
+## 🎯 Technical Foundation
 
-**Core Technology Mastery:**
-- **Advanced Python & Systems Programming** — CS50x (C fundamentals), CS50P (Python architecture)
-- **AI Workflow Integration** — 3 years working with diverse AI platforms, prompt engineering, and AI-assisted development (2022–present)
-- **Database & SQL Expertise** — Query optimization, data modeling, ETL processes alongside Python and Excel
-- **Production Automation** — Advanced Python scripting and workflow optimization
-- **Enterprise Data Analytics** — IBM Data Science Professional + Google Advanced Analytics tracks
-
-**Professional Development Pipeline:**
-- **Data Science Specialization** — Statistical modeling, ML implementation, data visualization at scale  
-- **Excel & SQL Mastery** — Advanced functions, Power Query, complex queries, automated reporting systems
-- **Security-First Development** — Network fundamentals, system hardening, threat modeling basics
-
-> **Note:** All completed certifications are systematically documented in a dedicated repository for verification.
+- **Advanced Python & Systems Programming** — CS50x, CS50P, production-level scripting and automation
+- **Database & Analytics** — SQL query optimization, Excel Power Query, Pandas/NumPy data processing
+- **AI Integration Expertise** — 3 years working with AI platforms, prompt engineering, workflow automation (2022–present)
 
 ## 🛠️ Tech stack
 
@@ -102,13 +88,9 @@ Continuously advancing my technical capabilities through industry-recognized cer
 - **Modern C Portfolio** — Low-level systems programming solutions demonstrating memory management and performance optimization.
 - **Python Mastery Portfolio** — Data processing utilities, SQL integration, automation scripts, and analytical tools for real-world applications.
 
-## 🎯 Current Professional Focus
+## 🎯 Current Focus
 
-- **AI-Driven Development** — Leveraging 3 years of AI tool experience to optimize workflows, accelerate development, and solve complex problems
-- **Advanced System Architecture** — Deepening C programming, algorithms, and data structure implementation for performance-critical applications
-- **Production Data Pipelines** — Scaling Python + SQL + Excel solutions for enterprise-level data analysis and reporting
-- **Full-Stack Portfolio Development** — Building comprehensive, deployment-ready projects that demonstrate end-to-end technical capabilities  
-- **Security-Conscious Development** — Integrating cybersecurity principles into development workflows (network security, system hardening, threat assessment)
+Deepening expertise in system architecture (C programming, algorithms), scaling data pipelines (Python + SQL + Excel), and integrating security principles into development workflows.
 
 ## 📈 GitHub stats
 
