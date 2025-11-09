@@ -34,13 +34,15 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 
 - **Advanced Python & Data Science** — CS50x, CS50P, production-level scripting, statistical analysis, machine learning with scikit-learn
 - **Database & Analytics** — SQL (queries, joins, subqueries, optimization), Excel Power Query, Pandas/NumPy data processing, data visualization (Matplotlib, Seaborn)
+- **Scientific Computing** — MATLAB (1 year experience): numerical analysis, algorithm development, data modeling
 - **AI Integration Expertise** — 3 years working with AI platforms, prompt engineering, workflow automation (2022–present)
 - **DevOps & Deployment** — Docker containerization, Git version control, CI/CD workflows, reproducible environments
 
 ## 🛠️ Tech stack
 
-- **Languages:** Python, SQL, C, Markdown
+- **Languages:** Python, SQL, MATLAB, C, Markdown
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebooks, statistical analysis, data visualization
+- **Scientific Computing:** MATLAB (numerical analysis, algorithm development, data modeling)
 - **Databases:** SQL (PostgreSQL, MySQL), query optimization, data modeling, ETL processes
 - **Business Intelligence:** Excel, Power Query, pivot tables, dashboards, automated reporting
 - **AI & Automation:** AI workflow integration, prompt engineering, AI-assisted development (3 years)
@@ -52,6 +54,7 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 <img src="https://img.shields.io/badge/AI_Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
@@ -68,7 +71,7 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 </div>
 
 <div align="center">
-  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Data Scientist & Analyst: Python, SQL, Docker, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter, Excel, AI Integration" />
+  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Data Scientist & Analyst: Python, SQL, MATLAB, Docker, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter, Excel, AI Integration" />
 </div>
 
 ## 🌟 Featured projects
