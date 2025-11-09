@@ -2,7 +2,8 @@ from pathlib import Path
 
 WIDTH, HEIGHT = 960, 360
 BG1, BG2 = "#0b1020", "#101a35"
-LABEL = "Skill Constellation"
+TITLE = "Volodymyr Minutin"
+SUBTITLE = "Technical Stack"
 
 nodes = [
     ("Python", 480, 60, "#34d399"),      # Nose cone (top center)
@@ -82,8 +83,8 @@ for name, x, y, color in nodes:
 
 title = f"""
 <g>
-  <text x='40' y='42' font-size='22' font-weight='700' fill='#e2e8f0'>exclipsee</text>
-  <text x='40' y='64' font-size='13' fill='#94a3b8'>{LABEL}</text>
+  <text x='40' y='42' font-size='22' font-weight='700' fill='#e2e8f0'>{TITLE}</text>
+  <text x='40' y='64' font-size='13' fill='#94a3b8'>{SUBTITLE}</text>
 </g>
 """
 
