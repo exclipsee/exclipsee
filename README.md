@@ -101,7 +101,7 @@ Building production-ready data science solutions: advanced statistical modeling,
 ## 📈 GitHub stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=exclipsee&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=exclipsee&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=exclipsee&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
 
