@@ -144,23 +144,6 @@ Building production-ready data science solutions: advanced statistical modeling,
 - **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
 - **CV:** Available upon request (tailored versions for Data Analyst, Data Scientist, and Python Developer roles)
 
-## 🧩 How I work
-
-- Automation-first mindset: reduce toil, measure impact, iterate fast
-- Version control discipline: small PRs, clear commit messages, reproducible environments
-- Documentation by default: SOPs, READMEs, and dashboards for self-serve clarity
-- Asynchronous-friendly communication: crisp updates, clear expectations, fast feedback cycles
-
-## 🇩🇪 Kurzer Überblick (DE)
-
-Junior-Entwickler (Data/AI) mit 3 Jahren Erfahrung in Python, SQL und Automatisierung. Bevorzugt On-Site in Bayern (führerschein + eigenes Auto), Remote möglich. Fokus: effiziente Datenpipelines, saubere Automatisierung, schnelle Wertschöpfung.
-
-## 🗺️ Roadmap (Q4 2025)
-
-- Ship a containerized ML microservice (FastAPI + Docker) with CI/CD
-- Contribute to an open-source data/AI tool (first PR merged)
-- Complete IBM Data Science Professional Certificate
-
 ---
 
 <div align="center">
