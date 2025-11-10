@@ -20,6 +20,12 @@
   </table>
 </div>
 
+## ⚡ Quick pitch
+
+- Data/AI-focused junior developer with 3 years of production experience
+- Bayern on-site preferred (licensed driver with own vehicle); remote available
+- I build automation-first data solutions with Python, SQL, Docker, and AI tools
+
 ## 🚀 Professional Profile
 
 Junior Developer with 3 years production experience building Python, SQL, and AI-integrated solutions. Currently pursuing CS degree (remote) with plans for advanced IT specialization. Remote-first with Bayern on-site capability.
@@ -40,13 +46,19 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 
 ## 🛠️ Tech stack
 
+Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library stack.
+
+<details>
+<summary><b>Full Technical Breakdown</b></summary>
+
 - **Languages:** Python, SQL, MATLAB, C, Markdown
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebooks, statistical analysis, data visualization
-- **Scientific Computing:** MATLAB (numerical analysis, algorithm development, data modeling)
 - **Databases:** SQL (PostgreSQL, MySQL), query optimization, data modeling, ETL processes
 - **Business Intelligence:** Excel, Power Query, pivot tables, dashboards, automated reporting
 - **AI & Automation:** AI workflow integration, prompt engineering, AI-assisted development (3 years)
 - **DevOps & Tools:** Docker, Git/GitHub, VS Code, Linux/WSL, virtual environments, CI/CD basics
+
+</details>
 
 <div align="center">
 
@@ -57,6 +69,8 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
 <img src="https://img.shields.io/badge/AI_Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -71,8 +85,16 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 </div>
 
 <div align="center">
-  <img width="880" src="dist/skill-constellation.svg" alt="Volodymyr Minutin - Data Scientist & Analyst: Python, SQL, MATLAB, Docker, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter, Excel, AI Integration" />
+  <img width="880" src="dist/skill-constellation.svg" alt="Rocket-shaped skill constellation: Python (nose), SQL & Pandas (wings), Docker/NumPy/scikit-learn/AI Tools (mid), Jupyter (body), Excel & Git (boosters)" />
 </div>
+
+## 🏆 Key achievements
+
+- Reduced preparation and reporting effort by 20–30% through Python + Excel automation
+- Saved 3–5 hours weekly by building ETL-like pipelines with validation and QA checks
+- Integrated AI tools into daily workflows since 2022 to accelerate delivery and quality
+- Operate fluently across five languages; smoothly collaborate with international teams
+- Maintain 3.90 CGPA while studying CS remotely and delivering production work
 
 ## 🌟 Featured projects
 
@@ -120,6 +142,24 @@ Building production-ready data science solutions: advanced statistical modeling,
 - **Mobility:** Licensed driver with own vehicle — flexible for on-site work across Bayern region
 - **Response Time:** Professional inquiries receive priority attention within 24 hours
 - **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
+- **CV:** Available upon request (tailored versions for Data Analyst, Data Scientist, and Python Developer roles)
+
+## 🧩 How I work
+
+- Automation-first mindset: reduce toil, measure impact, iterate fast
+- Version control discipline: small PRs, clear commit messages, reproducible environments
+- Documentation by default: SOPs, READMEs, and dashboards for self-serve clarity
+- Asynchronous-friendly communication: crisp updates, clear expectations, fast feedback cycles
+
+## 🇩🇪 Kurzer Überblick (DE)
+
+Junior-Entwickler (Data/AI) mit 3 Jahren Erfahrung in Python, SQL und Automatisierung. Bevorzugt On-Site in Bayern (führerschein + eigenes Auto), Remote möglich. Fokus: effiziente Datenpipelines, saubere Automatisierung, schnelle Wertschöpfung.
+
+## 🗺️ Roadmap (Q4 2025)
+
+- Ship a containerized ML microservice (FastAPI + Docker) with CI/CD
+- Contribute to an open-source data/AI tool (first PR merged)
+- Complete IBM Data Science Professional Certificate
 
 ---
 
