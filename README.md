@@ -9,8 +9,8 @@
         <br><sub><b>Production Experience</b></sub>
       </td>
       <td align="center" width="34%">
-        <img src="https://img.shields.io/badge/🎯_Selective_Hiring-Remote_|_Bayern_Only-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
-        <br><sub><b>Quality-Focused Companies</b></sub>
+        <img src="https://img.shields.io/badge/🎯_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
+        <br><sub><b>Licensed Driver • Own Vehicle</b></sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_SQL_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
@@ -28,7 +28,7 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 - 🤖 **AI Integration Specialist** — 3 years working with diverse AI platforms, prompt engineering, and AI-assisted development workflows
 - 🌍 **Multilingual Asset** — English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native) — ideal for international teams
 - 🛡️ **Security-Conscious** — Actively expanding into cybersecurity and system hardening alongside data science expertise
-- 🚗 **Flexible & Mobile** — Licensed driver, willing to travel for on-site collaboration in Bayern region
+- 🚗 **Mobile & On-Site Ready** — Licensed driver with own vehicle, flexible for on-site collaboration across Bayern (Ingolstadt-based)
 
 ## 🎯 Technical Foundation
 
@@ -116,7 +116,8 @@ Building production-ready data science solutions: advanced statistical modeling,
   </a>
 </div>
 
-- **Seeking:** Junior Developer positions with growth-oriented companies (remote-first or Bayern on-site)
+- **Seeking:** Junior Developer positions with growth-oriented companies — **Bayern on-site preferred**, remote available
+- **Mobility:** Licensed driver with own vehicle — flexible for on-site work across Bayern region
 - **Response Time:** Professional inquiries receive priority attention within 24 hours
 - **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
 
