@@ -100,21 +100,40 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
 
 <div align="center">
 
-<a href="https://github.com/exclipsee/multi-tool-ai-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=multi-tool-ai-assistant&theme=transparent&hide_border=true" alt="multi-tool-ai-assistant" />
-</a>
-<a href="https://github.com/exclipsee/modern-c-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=modern-c-portfolio&theme=transparent&hide_border=true" alt="modern-c-portfolio" />
-</a>
-<a href="https://github.com/exclipsee/python-mastery-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=python-mastery-portfolio&theme=transparent&hide_border=true" alt="python-mastery-portfolio" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/exclipsee/multi-tool-ai-assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=multi-tool-ai-assistant&theme=transparent&hide_border=true" alt="multi-tool-ai-assistant" />
+      </a>
+      <br />
+      <sub><b>AI Integration & Automation</b></sub>
+      <br />
+      <sub>Multi-tool system, workflow automation, decision engine</sub>
+    </td>
+    <td align="center" width="34%">
+      <a href="https://github.com/exclipsee/python-mastery-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=python-mastery-portfolio&theme=transparent&hide_border=true" alt="python-mastery-portfolio" />
+      </a>
+      <br />
+      <sub><b>Data Science Toolkit</b></sub>
+      <br />
+      <sub>ETL, SQL, modeling, dashboards, utilities</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/exclipsee/modern-c-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=modern-c-portfolio&theme=transparent&hide_border=true" alt="modern-c-portfolio" />
+      </a>
+      <br />
+      <sub><b>Systems Programming</b></sub>
+      <br />
+      <sub>C fundamentals, memory management, performance</sub>
+    </td>
+  </tr>
+  
+</table>
 
 </div>
-
-- **Multi‑tool AI Assistant** — Production-ready AI integration system with advanced tooling, workflow automation, and intelligent decision-making (3 years AI experience).
-- **Python Mastery Portfolio** — Data science utilities, SQL integration, statistical analysis, visualization dashboards, and ETL automation for real-world applications.
-- **Modern C Portfolio** — Low-level systems programming solutions demonstrating memory management and performance optimization.
 
 ## 🎯 Current Focus
 
