@@ -139,13 +139,6 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
 
 Building production-ready data science solutions: advanced statistical modeling, machine learning pipelines, Docker containerization for reproducible analytics, and scalable ETL processes with Python + SQL.
 
-## 📈 GitHub stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=exclipsee&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=exclipsee&theme=transparent&hide_border=true" alt="GitHub streak" />
-</div>
-
 ## 🤝 Professional Collaboration
 
 <div align="center">
