@@ -93,52 +93,17 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
 ## 🌟 Featured Projects & Achievements
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/exclipsee/multi-tool-ai-assistant" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=multi-tool-ai-assistant&theme=transparent&hide_border=true" alt="multi-tool-ai-assistant" width="220" />
-      </a>
-      <br />
-      <sub><b>AI Integration & Automation</b></sub>
-      <br />
-      <sub>Multi-tool system, workflow automation, decision engine</sub>
-      <br />
-      <a href="https://github.com/exclipsee/multi-tool-ai-assistant" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-multi--tool--ai--assistant-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="multi-tool-ai-assistant-badge" />
-      </a>
-    </td>
-    <td align="center" width="34%">
-      <a href="https://github.com/exclipsee/python-mastery-portfolio" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=python-mastery-portfolio&theme=transparent&hide_border=true" alt="python-mastery-portfolio" width="220" />
-      </a>
-      <br />
-      <sub><b>Data Science Toolkit</b></sub>
-      <br />
-      <sub>ETL, SQL, modeling, dashboards, utilities</sub>
-      <br />
-      <a href="https://github.com/exclipsee/python-mastery-portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-python--mastery--portfolio-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="python-mastery-portfolio-badge" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/exclipsee/achievements-portfolio" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=achievements-portfolio&theme=transparent&hide_border=true" alt="achievements-portfolio" width="220" />
-      </a>
-      <br />
-      <sub><b>Achievements Portfolio</b></sub>
-      <br />
-      <sub>Curated highlights, interactive demos, and project storytelling</sub>
-      <br />
-      <a href="https://github.com/exclipsee/achievements-portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-achievements--portfolio-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="achievements-portfolio-badge" />
-      </a>
-    </td>
-  </tr>
-  
-</table>
-
+  <a href="https://github.com/exclipsee/multi-tool-ai-assistant" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/MULTI--TOOL--AI--ASSISTANT-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="multi-tool-ai-assistant" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/exclipsee/python-mastery-portfolio" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/PYTHON--MASTERY--PORTFOLIO-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="python-mastery-portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/exclipsee/achievements-portfolio" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/ACHIEVEMENTS--PORTFOLIO-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="achievements-portfolio" />
+  </a>
 </div>
 
 ## 🎯 Current Focus
