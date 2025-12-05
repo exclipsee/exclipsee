@@ -96,7 +96,7 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
 - Operate fluently across five languages; smoothly collaborate with international teams
 - Maintain 3.90 CGPA while studying CS remotely and delivering production work
 
-## 🌟 Featured projects
+## 🌟 Featured Projects & Achievements
 
 <div align="center">
 
@@ -121,13 +121,17 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
       <sub>ETL, SQL, modeling, dashboards, utilities</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/exclipsee/modern-c-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=modern-c-portfolio&theme=transparent&hide_border=true" alt="modern-c-portfolio" />
+      <a href="https://github.com/exclipsee/achievements-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=exclipsee&repo=achievements-portfolio&theme=transparent&hide_border=true" alt="achievements-portfolio" />
       </a>
       <br />
-      <sub><b>Systems Programming</b></sub>
+      <sub><b>Achievements Portfolio</b></sub>
       <br />
-      <sub>C fundamentals, memory management, performance</sub>
+      <sub>Curated highlights, interactive demos, and project storytelling</sub>
+      <br />
+      <a href="https://github.com/exclipsee/achievements-portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Achievements-Click%20Here-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="View Achievements" />
+      </a>
     </td>
   </tr>
   
