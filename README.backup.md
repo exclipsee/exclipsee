@@ -5,15 +5,15 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⚡_3_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
+        <img src="https://img.shields.io/badge/%E2%9A%A1_3_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
         <br><sub><b>Production Experience</b></sub>
       </td>
       <td align="center" width="34%">
-        <img src="https://img.shields.io/badge/🎯_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AF_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
         <br><sub><b>Licensed Driver • Own Vehicle</b></sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_SQL_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/%F0%9F%94%A5_High_Impact-Python_|_SQL_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
         <br><sub><b>Immediate Contributor</b></sub>
       </td>
     </tr>
@@ -81,7 +81,13 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
 </div>
+
+<div align="center">
+  <img width="880" src="dist/skill-constellation.svg" alt="Rocket-shaped skill constellation: Python (nose), SQL & Pandas (wings), Docker/NumPy/scikit-learn/AI Tools (mid), Jupyter (body), Excel & Git (boosters)" />
+</div>
+
 ## 🏆 Key achievements
 
 - Reduced preparation and reporting effort by 20–30% through Python + Excel automation
