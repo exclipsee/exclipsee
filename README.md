@@ -6,15 +6,12 @@
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/⚡_3_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
-        <br><sub><b>Production Experience</b></sub>
       </td>
       <td align="center" width="34%">
         <img src="https://img.shields.io/badge/🎯_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
-        <br><sub><b>Licensed Driver • Own Vehicle</b></sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_SQL_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
-        <br><sub><b>Immediate Contributor</b></sub>
       </td>
     </tr>
   </table>
@@ -22,15 +19,12 @@
 
 ## ⚡ Quick pitch
 
-- Data/AI-focused junior developer with 3 years of production experience
+- Data/AI-focused junior developer with 3 years of experience
 - Bayern on-site preferred (licensed driver with own vehicle); remote available
 - I build automation-first data solutions with Python, SQL, Docker, and AI tools
 
 ## 🚀 Professional Profile
 
-Junior Developer with 3 years production experience building Python, SQL, and AI-integrated solutions. Currently pursuing CS degree (remote) with plans for advanced IT specialization. Remote-first with Bayern on-site capability.
-
-**Key Differentiators:**
 - 🤖 **AI Integration Specialist** — 3 years working with diverse AI platforms, prompt engineering, and AI-assisted development workflows
 - 🌍 **Multilingual Asset** — English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native) — ideal for international teams
 - 🛡️ **Security-Conscious** — Actively expanding into cybersecurity and system hardening alongside data science expertise
@@ -45,8 +39,6 @@ Junior Developer with 3 years production experience building Python, SQL, and AI
 - **DevOps & Deployment** — Docker containerization, Git version control, CI/CD workflows, reproducible environments
 
 ## 🛠️ Tech stack
-
-Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library stack.
 
 <details>
 <summary><b>Full Technical Breakdown</b></summary>
@@ -82,13 +74,6 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
-## 🏆 Key achievements
-
-- Reduced preparation and reporting effort by 20–30% through Python + Excel automation
-- Saved 3–5 hours weekly by building ETL-like pipelines with validation and QA checks
-- Integrated AI tools into daily workflows since 2022 to accelerate delivery and quality
-- Operate fluently across five languages; smoothly collaborate with international teams
-- Maintain 3.90 CGPA while studying CS remotely and delivering production work
 
 ## 🌟 Featured Projects & Achievements
 
@@ -105,10 +90,6 @@ Core tools: Python, SQL, Docker, Excel, MATLAB, AI tools; full DS/DA library sta
     <img src="https://img.shields.io/badge/ACHIEVEMENTS--PORTFOLIO-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="achievements-portfolio" />
   </a>
 </div>
-
-## 🎯 Current Focus
-
-Building production-ready data science solutions: advanced statistical modeling, machine learning pipelines, Docker containerization for reproducible analytics, and scalable ETL processes with Python + SQL.
 
 ## 🤝 Professional Collaboration
 
