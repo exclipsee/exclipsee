@@ -108,13 +108,6 @@
 - **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
 - **CV:** Available upon request (tailored versions for Data Analyst, Data Scientist, and Python Developer roles)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=exclipsee&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/exclipsee?label=Followers&style=flat-square&color=0A66C2" alt="Followers" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="footer" />
 </div>
