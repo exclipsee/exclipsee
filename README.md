@@ -17,6 +17,12 @@
   </table>
 </div>
 
+**Certificate Authenticity & Verification**
+
+- All certificates shown in the `achievements-portfolio` repository are the personal property of Volodymyr Minutin. Employers may verify any certificate by contacting the issuing organization and providing the certificate serial number (the serial is visible on each certificate image).
+- For direct verification or job-reference questions, contact: `volodymyr.minutin@gmail.com` or LinkedIn: https://www.linkedin.com/in/volodymyr-minutin-380310364.
+- Unauthorized use, reproduction, or misrepresentation of these certificates is fraudulent and may be reported to employers and issuing organizations. I will not include insulting or threatening language here; concerns about misuse will be handled through formal verification and reporting channels.
+
 ## ⚡ Quick pitch
 
 - Data/AI-focused junior developer with 3 years of experience
