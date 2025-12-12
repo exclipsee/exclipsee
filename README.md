@@ -17,7 +17,7 @@
   </table>
 </div>
 
-**Certificate Authenticity & Verification**
+## 🚨 Certificate Authenticity & Verification
 
 - All certificates shown in the `achievements-portfolio` repository are the personal property of Volodymyr Minutin. Employers may verify any certificate by contacting the issuing organization and providing the certificate serial number (the serial is visible on each certificate image).
 - For direct verification or job-reference questions, contact: `volodymyr.minutin@gmail.com` or LinkedIn: https://www.linkedin.com/in/volodymyr-minutin-380310364.
