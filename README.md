@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⚡_3_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
+        <img src="https://img.shields.io/badge/⚡_1.5_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
       </td>
       <td align="center" width="34%">
         <img src="https://img.shields.io/badge/🎯_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
@@ -25,13 +25,13 @@
 
 ## ⚡ Quick pitch
 
-- Data/AI-focused junior developer with 3 years of experience
+- Data/AI-focused junior developer with 1.5 years of practical experience (personal projects & automation)
 - Bayern on-site preferred (licensed driver with own vehicle); remote available
 - I build automation-first data solutions with Python, SQL, Docker, and AI tools
 
 ## 🚀 Professional Profile
 
-- 🤖 **AI Integration Specialist** — 3 years working with diverse AI platforms, prompt engineering, and AI-assisted development workflows
+- 🤖 **AI Integration Specialist** — 1.5 years working with AI platforms, prompt engineering, and personal automation workflows
 - 🌍 **Multilingual Asset** — English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native) — ideal for international teams
 - 🛡️ **Security-Conscious** — Actively expanding into cybersecurity and system hardening alongside data science expertise
 - 🚗 **Mobile & On-Site Ready** — Licensed driver with own vehicle, flexible for on-site collaboration across Bayern (Ingolstadt-based)
@@ -41,7 +41,7 @@
 - **Advanced Python & Data Science** — CS50x, CS50P, production-level scripting, statistical analysis, machine learning with scikit-learn
 - **Database & Analytics** — SQL (queries, joins, subqueries, optimization), Excel Power Query, Pandas/NumPy data processing, data visualization (Matplotlib, Seaborn)
 - **Scientific Computing** — MATLAB (1 year experience): numerical analysis, algorithm development, data modeling
-- **AI Integration Expertise** — 3 years working with AI platforms, prompt engineering, workflow automation (2022–present)
+- **AI Integration Expertise** — 1.5 years working with AI platforms, prompt engineering, personal automation workflows (2022–present)
 - **DevOps & Deployment** — Docker containerization, Git version control, CI/CD workflows, reproducible environments
 
 ## 🛠️ Tech stack
@@ -53,7 +53,7 @@
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebooks, statistical analysis, data visualization
 - **Databases:** SQL (PostgreSQL, MySQL), query optimization, data modeling, ETL processes
 - **Business Intelligence:** Excel, Power Query, pivot tables, dashboards, automated reporting
-- **AI & Automation:** AI workflow integration, prompt engineering, AI-assisted development (3 years)
+- **AI & Automation:** AI workflow integration, prompt engineering, AI-assisted development (1.5 years; personal projects)
 - **DevOps & Tools:** Docker, Git/GitHub, VS Code, Linux/WSL, virtual environments, CI/CD basics
 
 </details>
