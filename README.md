@@ -21,7 +21,6 @@
 
 - All certificates shown in the `achievements-portfolio` repository are the personal property of Volodymyr Minutin. Employers may verify any certificate by contacting the issuing organization and providing the certificate serial number (the serial is visible on each certificate image).
 - For direct verification or job-reference questions, contact: `volodymyr.minutin@gmail.com` or LinkedIn: https://www.linkedin.com/in/volodymyr-minutin-380310364.
-- Unauthorized use, reproduction, or misrepresentation of these certificates is fraudulent and may be reported to employers and issuing organizations. I will not include insulting or threatening language here; concerns about misuse will be handled through formal verification and reporting channels.
 
 ## ⚡ Quick pitch
 
@@ -31,14 +30,14 @@
 
 ## 🚀 Professional Profile
 
-- 🤖 **AI Integration Specialist** — 1.5 years working with AI platforms, prompt engineering, and personal automation workflows
+- 🤖 **AI Integration Specialist** — 1.5+ years working with AI platforms, prompt engineering, and personal automation workflows
 - 🌍 **Multilingual Asset** — English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native) — ideal for international teams
 - 🛡️ **Security-Conscious** — Actively expanding into cybersecurity and system hardening alongside data science expertise
 - 🚗 **Mobile & On-Site Ready** — Licensed driver with own vehicle, flexible for on-site collaboration across Bayern (Ingolstadt-based)
 
 ## 🎯 Technical Foundation
 
-- **Advanced Python & Data Science** — CS50x, CS50P, production-level scripting, statistical analysis, machine learning with scikit-learn
+- **Advanced Python & Data Science** — Kaggle, Databricks, HP LIFE.
 - **Database & Analytics** — SQL (queries, joins, subqueries, optimization), Excel Power Query, Pandas/NumPy data processing, data visualization (Matplotlib, Seaborn)
 - **Scientific Computing** — MATLAB (1 year experience): numerical analysis, algorithm development, data modeling
 - **AI Integration Expertise** — 1.5 years working with AI platforms, prompt engineering, personal automation workflows (2022–present)
@@ -81,7 +80,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
 
-## 🌟 Featured Projects & Achievements
+## 🌟 Projects & Achievements
 
 <div align="center">
   <a href="https://github.com/exclipsee/multi-tool-ai-assistant" target="_blank" style="text-decoration:none">
@@ -108,9 +107,8 @@
   </a>
 </div>
 
-- **Seeking:** Junior Developer positions with growth-oriented companies — **Bayern on-site preferred**, remote available
+- **Seeking:** Junior/Intern/Working Student Developer positions with growth-oriented companies
 - **Mobility:** Licensed driver with own vehicle — flexible for on-site work across Bayern region
-- **Response Time:** Professional inquiries receive priority attention within 24 hours
 - **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
 - **CV:** Available upon request (tailored versions for Data Analyst, Data Scientist, and Python Developer roles)
 
