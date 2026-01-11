@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E96F7,50:4EABCF,100:217346&height=160&section=header&text=Volodymyr%20Minutin&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="header" />
   
-  <!-- Professional Value Proposition Banner -->
   <table>
     <tr>
       <td align="center" width="33%">
@@ -17,30 +16,24 @@
   </table>
 </div>
 
-## 🚨 Certificate Authenticity & Verification
-
-- All certificates shown in the `achievements-portfolio` repository are the personal property of Volodymyr Minutin. Employers may verify any certificate by contacting the issuing organization and providing the certificate serial number (the serial is visible on each certificate image).
-- For direct verification or job-reference questions, contact: `volodymyr.minutin@gmail.com` or LinkedIn: https://www.linkedin.com/in/volodymyr-minutin-380310364.
-
 ## ⚡ Quick pitch
 
-- Data/AI-focused junior developer with 1.5 years of practical experience (personal projects & automation)
+- Data/AI-focused junior developer with 1.5+ YOE (personal projects & automation)
 - Bayern on-site preferred (licensed driver with own vehicle); remote available
 - I build automation-first data solutions with Python, SQL, Docker, and AI tools
 
 ## 🚀 Professional Profile
 
-- 🤖 **AI Integration Specialist** — 1.5+ years working with AI platforms, prompt engineering, and personal automation workflows
 - 🌍 **Multilingual Asset** — English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native) — ideal for international teams
-- 🛡️ **Security-Conscious** — Actively expanding into cybersecurity and system hardening alongside data science expertise
-- 🚗 **Mobile & On-Site Ready** — Licensed driver with own vehicle, flexible for on-site collaboration across Bayern (Ingolstadt-based)
+- 🛡️ **Security-Conscious** — Actively expanding into personal cybersecurity and system hardening alongside data science expertise
+- 🚗 **Mobile & On-Site Ready** — Licensed driver with own vehicle, flexible for on-site collaboration across Germany (relocation is not a problem)
 
 ## 🎯 Technical Foundation
 
 - **Advanced Python & Data Science** — Kaggle, Databricks, HP LIFE.
 - **Database & Analytics** — SQL (queries, joins, subqueries, optimization), Excel Power Query, Pandas/NumPy data processing, data visualization (Matplotlib, Seaborn)
-- **Scientific Computing** — MATLAB (1 year experience): numerical analysis, algorithm development, data modeling
-- **AI Integration Expertise** — 1.5 years working with AI platforms, prompt engineering, personal automation workflows (2022–present)
+- **Scientific Computing** — MATLAB (1 YOE): numerical analysis, algorithm development, data modeling
+- **AI Integration Specialist** — 1.5+ years working with AI platforms, HuggingFace, LM Studio, LLMs, DL/ML
 - **DevOps & Deployment** — Docker containerization, Git version control, CI/CD workflows, reproducible environments
 
 ## 🛠️ Tech stack
@@ -48,18 +41,17 @@
 <details>
 <summary><b>Full Technical Breakdown</b></summary>
 
-- **Languages:** Python, SQL, MATLAB, C, Markdown
+- **Languages:** Python, SQL, MATLAB, Web
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebooks, statistical analysis, data visualization
 - **Databases:** SQL (PostgreSQL, MySQL), query optimization, data modeling, ETL processes
 - **Business Intelligence:** Excel, Power Query, pivot tables, dashboards, automated reporting
-- **AI & Automation:** AI workflow integration, prompt engineering, AI-assisted development (1.5 years; personal projects)
+- **AI & Automation:** HuggingFace, LM Studio, DeepSeek-V3, LLMs, DL/ML, API
 - **DevOps & Tools:** Docker, Git/GitHub, VS Code, Linux/WSL, virtual environments, CI/CD basics
 
 </details>
 
 <div align="center">
 
-<!-- Language/tool badges -->
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -108,7 +100,7 @@
 </div>
 
 - **Seeking:** Junior/Intern/Working Student Developer positions with growth-oriented companies
-- **Mobility:** Licensed driver with own vehicle — flexible for on-site work across Bayern region
+- **Mobility:** Licensed driver with own vehicle — flexible for on-site work across Germany
 - **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
 - **CV:** Available upon request (tailored versions for Data Analyst, Data Scientist, and Python Developer roles)
 
