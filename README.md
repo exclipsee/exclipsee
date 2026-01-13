@@ -18,7 +18,7 @@
 
 ## ⚡ Quick pitch
 
-- Data/AI-focused junior developer with 1.5+ YOE (personal projects & automation)
+- Data/AI-focused junior developer with 1+ YOE (personal projects & automation)
 - Bayern on-site preferred (licensed driver with own vehicle); remote available
 - I build automation-first data solutions with Python, SQL, Docker, and AI tools
 
@@ -33,7 +33,7 @@
 - **Advanced Python & Data Science** — Kaggle, Databricks, HP LIFE.
 - **Database & Analytics** — SQL (queries, joins, subqueries, optimization), Excel Power Query, Pandas/NumPy data processing, data visualization (Matplotlib, Seaborn)
 - **Scientific Computing** — MATLAB (1 YOE): numerical analysis, algorithm development, data modeling
-- **AI Integration Specialist** — 1.5+ years working with AI platforms, HuggingFace, LM Studio, LLMs, DL/ML
+- **AI Integration Specialist** — 1+ years working with AI platforms, HuggingFace, LM Studio, LLMs, DL/ML
 - **DevOps & Deployment** — Docker containerization, Git version control, CI/CD workflows, reproducible environments
 
 ## 🛠️ Tech stack
