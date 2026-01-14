@@ -76,7 +76,7 @@
 
 <div align="center">
   <a href="https://github.com/exclipsee/multi-tool-ai-assistant" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/MULTI--TOOL--AI--ASSISTANT-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="multi-tool-ai-assistant" />
+    <img src="https://img.shields.io/badge/PERSONAL--FINANCE--AI-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="personal-finance-ai" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/exclipsee/python-mastery-portfolio" target="_blank" style="text-decoration:none">
