@@ -88,6 +88,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/exclipsee" target="_blank" style="text-decoration:none">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exclipsee&layout=compact&theme=transparent" alt="top languages" width="320" />
+  </a>
+</div>
+
 ## 🤝 Professional Collaboration
 
 <div align="center">
