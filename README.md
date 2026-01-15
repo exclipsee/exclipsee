@@ -88,12 +88,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/exclipsee" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/github/followers/exclipsee?style=flat-square&label=Followers&logo=github" alt="followers" />
-  </a>
-</div>
-
 ## 🤝 Professional Collaboration
 
 <div align="center">
