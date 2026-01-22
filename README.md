@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/🎯_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔥_High_Impact-Python_|_SQL_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/🔥_High_Impact-Data_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
       </td>
     </tr>
   </table>
