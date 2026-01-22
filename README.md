@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⚡_1.5_Years_Proven-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
+        <img src="https://img.shields.io/badge/⚡_1+_YOE-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
       </td>
       <td align="center" width="34%">
         <img src="https://img.shields.io/badge/🎯_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
