@@ -1,92 +1,103 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E96F7,50:4EABCF,100:217346&height=160&section=header&text=Volodymyr%20Minutin&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E74C3C,50:C0392B,100:7F0000&height=160&section=header&text=Volodymyr%20Minutin&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="header" />
   
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⚡_1+_YOE-Junior_Developer_Ready-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
+        <img src="https://img.shields.io/badge/🛡️_2+_YOE-IT_System_Admin-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Experience" />
       </td>
       <td align="center" width="34%">
-        <img src="https://img.shields.io/badge/🎯_Preferred_Location-Bayern_On--Site-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
+        <img src="https://img.shields.io/badge/🎯_Currently_At-P3_Group-217346?style=for-the-badge&labelColor=1a1a1a" alt="Availability" />
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔥_High_Impact-Data_|_AI-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/🔥_Focus_Area-Cybersecurity-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Tech Stack" />
       </td>
     </tr>
   </table>
 </div>
 
-## ⚡ Quick pitch
+## 🛡️ Quick pitch
 
-- Data/AI-focused junior developer with 1+ YOE (personal projects & automation)
-- Bayern on-site preferred (licensed driver with own vehicle); remote available
-- I build automation-first data solutions with Python, SQL, Docker, and AI tools
+- IT System Administrator with 2+ YOE, currently at P3 Group
+- Cybersecurity-focused with solid foundation in fundamentals; actively pursuing deeper expertise
+- Cross-platform infrastructure specialist (Linux, Windows, macOS); learning Azure/Intune/AD
+- Passionate about infrastructure hardening, incident response, and network security
 
 ## 🚀 Professional Profile
 
 - 🌍 **Multilingual Asset** — English (C1), Polish (C2), German (B1), Ukrainian/Russian (Native) — ideal for international teams
-- 🛡️ **Security-Conscious** — Actively expanding into personal cybersecurity and system hardening alongside data science expertise
-- 🚗 **Mobile & On-Site Ready** — Licensed driver with own vehicle, flexible for on-site collaboration across Germany (relocation is not a problem)
+- 🛡️ **Cybersecurity Focused** — Foundational expertise across network security, incident response, infrastructure hardening, and penetration testing fundamentals
+- 🌐 **Cross-Platform Infrastructure Specialist** — Expert in Linux, Windows, and macOS; currently expanding cloud competencies (Azure/Intune/Active Directory)
+- 🚗 **Mobile & On-Site Ready** — Licensed driver with own vehicle; flexible for on-site collaboration across Germany
+- 🔄 **Continuous Learner** — Pursuing industry-recognized certifications in cybersecurity; staying current with emerging threats and best practices
 
 ## 🎯 Technical Foundation
 
-- **Advanced Python & Data Science** — Kaggle, Databricks, HP LIFE.
-- **Database & Analytics** — SQL (queries, joins, subqueries, optimization), Excel Power Query, Pandas/NumPy data processing, data visualization (Matplotlib, Seaborn)
-- **Scientific Computing** — MATLAB (1 YOE): numerical analysis, algorithm development, data modeling
-- **AI Integration Specialist** — 1+ years working with AI platforms, HuggingFace, LM Studio, LLMs, DL/ML
-- **DevOps & Deployment** — Docker containerization, Git version control, CI/CD workflows, reproducible environments
+- **System Administration** — User provisioning & lifecycle management, group policies, system hardening, patch management, change control, service monitoring
+- **Network Security** — TCP/IP fundamentals, firewall configuration, VPN setup, network segmentation, intrusion detection basics
+- **Cloud & Identity** — Azure fundamentals, Intune MDM, Active Directory/Entra ID, SSO, identity management
+- **Incident Response & Threat Analysis** — Log analysis, alert triage, basic incident handling procedures, threat identification
+- **Infrastructure & Automation** — Scripting (Bash, PowerShell), configuration management basics, infrastructure as code principles, monitoring & alerting
+- **Security Hardening** — OS hardening procedures, security baselines, vulnerability assessment fundamentals, compliance awareness (GDPR, ISO 27001)
+- **DevOps & Tools** — Git version control, Docker basics, CI/CD workflow understanding, Linux/Windows administration tools
 
 ## 🛠️ Tech stack
 
 <details>
 <summary><b>Full Technical Breakdown</b></summary>
 
-- **Languages:** Python, SQL, MATLAB, Web
-- **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebooks, statistical analysis, data visualization
-- **Databases:** SQL (PostgreSQL, MySQL), query optimization, data modeling, ETL processes
-- **Business Intelligence:** Excel, Power Query, pivot tables, dashboards, automated reporting
-- **AI & Automation:** HuggingFace, LM Studio, DeepSeek-V3, LLMs, DL/ML, API
-- **DevOps & Tools:** Docker, Git/GitHub, VS Code, Linux/WSL, virtual environments, CI/CD basics
+- **Operating Systems:** Linux (Debian/Ubuntu, RHEL), Windows Server, macOS, WSL
+- **Cloud Platforms:** Azure (IaaS, PaaS fundamentals), Intune, Azure Entra ID
+- **Identity & Access Management:** Active Directory, Azure Entra ID, SSO, multi-factor authentication
+- **Monitoring & Logging:** Log analysis, alerting systems, security event monitoring, basic SIEM concepts
+- **Network Tools:** TCP/IP, DNS, DHCP, firewalls, VPN, network diagnostics (tcpdump, Wireshark basics)
+- **Scripting & Automation:** Bash, PowerShell, Python (automation focus), infrastructure-as-code basics
+- **Security Tools:** Nmap, Metasploit basics, vulnerability scanners, security baseline tools
+- **Version Control & DevOps:** Git/GitHub, Docker, CI/CD pipeline understanding
+- **Documentation & Collaboration:** VS Code, Markdown, technical documentation, knowledge management
 
 </details>
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
-<img src="https://img.shields.io/badge/AI_Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-4EABCF?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Security-E74C3C?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
+<img src="https://img.shields.io/badge/Network_Admin-4287f5?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Admin" />
+<img src="https://img.shields.io/badge/Incident_Response-E74C3C?style=for-the-badge&logo=alertlogic&logoColor=white" alt="Incident Response" />
+<img src="https://img.shields.io/badge/Cloud_Admin-FF9900?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Admin" />
+
 </div>
 
-## 🌟 Projects & Achievements
+## 🌟 Focus Areas & Expertise Development
 
 <div align="center">
-  <a href="https://github.com/exclipsee/multi-tool-ai-assistant" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/PERSONAL--FINANCE--AI-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="personal-finance-ai" />
+  <a href="https://github.com/exclipsee" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/System_Administration-4287f5?style=for-the-badge&logo=github&logoColor=white" alt="system-admin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/exclipsee/python-mastery-portfolio" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/PYTHON--MASTERY--PORTFOLIO-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="python-mastery-portfolio" />
+  <a href="https://github.com/exclipsee" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Infrastructure_Security-E74C3C?style=for-the-badge&logo=github&logoColor=white" alt="infrastructure-security" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/exclipsee/achievements-portfolio" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/ACHIEVEMENTS--PORTFOLIO-2E96F7?style=for-the-badge&logo=github&logoColor=white" alt="achievements-portfolio" />
+  <a href="https://github.com/exclipsee" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=for-the-badge&logo=github&logoColor=white" alt="cloud-security" />
   </a>
 </div>
+
+**Current Growth Path:**
+- Deepening knowledge in network security and incident response
+- Building hands-on expertise in penetration testing fundamentals
+- Advancing cloud security skills (Azure/Intune)
+- Working towards industry-recognized certifications in cybersecurity
 
 ## 🤝 Professional Collaboration
 
@@ -99,10 +110,12 @@
   </a>
 </div>
 
-- **Seeking:** Junior/Intern/Working Student Developer positions with growth-oriented companies
+- **Currently:** IT System Administrator at P3 Group
+- **Professional Goals:** Advance into cybersecurity specialization (Security Engineer, SOC Analyst, Infrastructure Security roles)
+- **Certifications in Progress:** Planning to pursue Security+, CEH, and other relevant cybersecurity certifications in the coming months
+- **Collaboration Style:** Direct communication, proactive problem-solving, continuous learning mindset
 - **Mobility:** Licensed driver with own vehicle — flexible for on-site work across Germany
-- **Collaboration Style:** Direct communication, solution-focused approach, delivery-oriented mindset
-- **CV:** Available upon request (tailored versions for Data Analyst, Data Scientist, and Python Developer roles)
+- **Contact:** Open to discussing cybersecurity opportunities, knowledge exchange, and professional development
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="footer" />
