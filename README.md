@@ -27,6 +27,12 @@ Currently, I work as an IT System Administrator at P3 Group while developing my 
 | Engineering foundations | Docker, CI/CD concepts, infrastructure as code, monitoring, documentation |
 | Networking | TCP/IP, DNS, DHCP, VPNs, firewalls, network diagnostics |
 
+## Selected projects
+
+- [Modern C Portfolio](https://github.com/exclipsee/modern-c-portfolio) — C11 demos, a reusable library, and cross-platform CMake builds with tests.
+- [Vehicle Fleet Performance Analysis](https://github.com/exclipsee/vehicle-fleet-performance-analysis) — an interactive Python dashboard for exploring fleet performance, built with Streamlit, Pandas, and Plotly.
+- [German Tutor](https://github.com/exclipsee/multi-tool-ai-assistant) — a Python and Streamlit learning assistant with sentence feedback, practice exercises, and conversational tutoring.
+
 ## Defense sector perspective
 
 Before and alongside my technology work, I served as a military interpreter supporting American and Ukrainian armed forces. That experience gave me a grounded understanding of modern warfare, military operations, and how different types of weapon systems are used in today's world.
