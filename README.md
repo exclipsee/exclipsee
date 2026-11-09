@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Volodymyr%20Minutin&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="Volodymyr Minutin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF416C&height=180&section=header&text=Volodymyr%20Minutin&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="Volodymyr Minutin" />
 
   <h2>Software Engineer in progress | Cloud-minded | Defense sector experience</h2>
 
@@ -58,5 +58,5 @@ At my current workplace, I also contribute in a consulting capacity where this d
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,50:E100FF,100:7F00FF&height=90&section=footer&animation=fadeIn" alt="footer" />
 </div>
