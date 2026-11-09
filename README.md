@@ -4,9 +4,9 @@
   <h2>Software Engineer in progress | Cloud-minded | Defense sector experience</h2>
 
   <p>
-    <a href="https://github.com/exclipsee"><img src="https://img.shields.io/badge/Focus-Software%20Engineering-2C5364?style=flat-square" alt="Software Engineering" /></a>
-    <a href="https://github.com/exclipsee"><img src="https://img.shields.io/badge/Building%20towards-Cloud%20Engineering-217346?style=flat-square" alt="Cloud Engineering" /></a>
-    <a href="https://github.com/exclipsee"><img src="https://img.shields.io/badge/Based%20in-Germany-1a1a1a?style=flat-square" alt="Based in Germany" /></a>
+    <a href="https://github.com/exclipsee"><img src="https://img.shields.io/badge/Focus-Software%20Engineering-203A43?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Focus: Software Engineering" /></a>
+    <a href="https://github.com/exclipsee"><img src="https://img.shields.io/badge/Building%20towards-Cloud%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Building towards: Cloud Engineering" /></a>
+    <a href="https://github.com/exclipsee"><img src="https://img.shields.io/badge/Based%20in-Germany-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Germany" /></a>
   </p>
 </div>
 
